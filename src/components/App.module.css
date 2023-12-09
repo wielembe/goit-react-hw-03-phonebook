@@ -1,0 +1,13 @@
+.container {
+  width: 600px;
+  border: 2px solid #000;
+  border-radius: 5%;
+  margin: 30px auto;
+  padding: 20px;
+}
+.titles {
+  margin-left: 15px;
+}
+button {
+  cursor: pointer;
+}
